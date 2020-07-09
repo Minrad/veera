@@ -69,7 +69,7 @@ window.RaidList = [
     new RaidData("Nezha", 300421, RAID_TIER.Ancient, 40, 2, 40, [1343, 1141], [50, 6], ELEMENTS.wind, "2040042000_ex.png"),
     new RaidData("Garuda", 301381, RAID_TIER.Epic, 40, 2, 40, [1343, 1141], [50, 6], ELEMENTS.wind, "2040071000_ex.png"),
     new RaidData("Tiamat Omega (HL)", 300441, RAID_TIER.Magna, 101, 2, 50, [32], [3], ELEMENTS.wind, "2040020000_high.png"),
-    new RaidData("Nezha (HL)", 300451, RAID_TIER.Epic, 101, 1, 50, [44], [1], ELEMENTS.wind, "2040042000_high.png"),
+    new RaidData("Nezha (HL)", 300451, RAID_TIER.Ancient, 101, 1, 50, [44], [1], ELEMENTS.wind, "2040042000_high.png"),
     new RaidData("Raphael", 303081, RAID_TIER.Primarch, 40, 1, 50, [5341], [2], ELEMENTS.wind, "2040202000_multi.png"),
 
     new RaidData("Flame (N)", 300061, RAID_TIER.A, null, 3, null, null, null, ELEMENTS.fire, "2020018001.png"),
